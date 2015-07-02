@@ -7,7 +7,6 @@ void Copter::userhook_init()
 {
     // put your initialisation code here
     // this will be called once at start-up
-    uint8_t i;
 }
 #endif
 
